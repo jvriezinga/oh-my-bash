@@ -12,7 +12,7 @@ function bu () {
       Usage: bu [N]
               N        N is the number of level to move back up to, this argument must be a positive integer.
               h help   displays this basic help menu.
-      EOF
+EOF
   }
   # reset variables
   STRARGMNT=""
